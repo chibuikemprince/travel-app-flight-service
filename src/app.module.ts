@@ -4,7 +4,7 @@ import { FlightModule } from './flight/flight.module';
 import { config } from 'dotenv';
 config();
 @Module({
-  imports: [MongooseModule.forRoot(process.env.db), FlightModule],
+  imports: [MongooseModule.forRoot(process.env.DB), FlightModule],
   controllers: [],
   providers: [],
 })
