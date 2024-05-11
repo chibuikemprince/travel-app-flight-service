@@ -12,6 +12,8 @@ The microservice's integration with TypeScript, a typed superset of JavaScript, 
 
 Furthermore, the integration of RabbitMQ as a message broker enables seamless communication between different services, ensuring reliable and efficient message delivery. This allows for the immediate and accurate sending of email notifications to users, keeping them informed and engaged throughout their flight booking journey.
 
+Live URL: https://travel-app-flight-service.onrender.com
+
 ## Installation
 
 ```bash
